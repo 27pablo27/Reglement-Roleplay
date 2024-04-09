@@ -1,0 +1,73 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url('https://media.discordapp.net/attachments/1174751284205715486/1227285939064147998/image_2024-04-09_175536219.png?ex=6627da19&is=66156519&hm=fb682633c5ba02656e1a36f9a74df2d403ef5c10d0a3ac7e457693a37868b406&=&format=webp&quality=lossless&width=550&height=309');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.5); /* Ajout d'une couleur de fond semi-transparente */
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo img {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+.fivem-logo {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.fivem-logo img {
+    width: 50px;
+    height: 50px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+nav a {
+    color: #a200ff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+#main {
+    width: 75%;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8); /* Ajout d'une couleur de fond semi-transparente */
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 7.5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 5%; 
+}
+
+ol li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #a200ff;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+p {
+    color: #555;
+    font-size: 1em;
+    line-height: 1.5;
+}
