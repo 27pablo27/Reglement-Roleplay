@@ -1,7 +1,7 @@
 
 # HTML Reglement Roleplay 
 
-Ce type de fichier peux servir a votre serveur , si vous avez besoins de mettre un reglement un place sur ujn site web , voici la template totalement configurable 
+Ce type de fichier peux servir a votre serveur , si vous avez besoins de mettre un reglement un place sur un site web , voici la template totalement configurable 
 
 ## Support
 
